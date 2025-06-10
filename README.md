@@ -11,4 +11,5 @@ mix of the following themes
 
 Many thanks to the creators <3
 
+## Installation
 For installation you need to follow  [Material-Discord](https://github.com/CapnKitten/Material-Discord) Instructions but installing my css, that is it
